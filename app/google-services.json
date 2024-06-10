@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "389123397097",
+    "firebase_url": "https://firetemp-3d672-default-rtdb.firebaseio.com",
+    "project_id": "firetemp-3d672",
+    "storage_bucket": "firetemp-3d672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389123397097:android:048ee2e96daa75f195e778",
+        "android_client_info": {
+          "package_name": "com.example.firetemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmbNkednJjcaa9BgagTMSUId7qKBzLIV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

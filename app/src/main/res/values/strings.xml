@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Produtos App</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="strCategorias">
+        <item>---------</item>
+        <item>Alimentos</item>
+        <item>Bebidas</item>
+        <item>Higiene Pessoal</item>
+        <item>Limpeza</item>
+        <item>Outros</item>
+    </string-array>
+
+</resources>
